@@ -11,6 +11,6 @@ function clearResult() {
 }
 
 function getResult() {
-  var result = document.getElementsByid("clearBtn")
+  var result = document.getElementsByid("getResult")
     console.log(result)
 }
