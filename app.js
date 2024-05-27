@@ -5,7 +5,7 @@ function getNumber(num) {
 }
 
 function clearResult() {
-    var result = document.getElementsByClassid("result")
+    var result = document.getElementsByid("result")
 
     result.value =  "";
 }
