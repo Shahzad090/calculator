@@ -5,16 +5,16 @@
 
 }
 
-.add-number {
+/* .add-number {
     width: 95%;
     background-color: gray;
     color: white;
-}
+} */
 
 .clearBtn {
     width: 99%;
     margin-top: 10px;
-    background-color: rgb(248, 239, 239);
+    background-color: grey
 }
 
 .Btn {
