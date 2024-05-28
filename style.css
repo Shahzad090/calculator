@@ -12,7 +12,7 @@
 } */
 
 .clearBtn {
-    width: 99%;
+    width: 98%;
     margin-top: 10px;
     background-color: grey
 }
@@ -21,4 +21,9 @@
     margin: 0.5px;
     background-color: gray;
     width: 49px;
+}
+.result {
+    width: 96%;
+    color: rgb(247, 250, 250);
+    background-color: rgb(145, 129, 129);
 }
